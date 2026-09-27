@@ -540,8 +540,8 @@ func main() {
 }
 ```
 
-And its output :
-
+And its output :9
+0
 ```console
 $ go run .
 A
